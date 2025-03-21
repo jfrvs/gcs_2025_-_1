@@ -1,1 +1,2 @@
-# gcs_2025_-_1
+# Repositório teste para a disciplina de Gerenciamento de Configuração de Software
+
